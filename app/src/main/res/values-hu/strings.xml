@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Játék</string>
+    <string name="welcome">Üdv a számkitalálós játékban!</string>
+    <string name="pleaseTipp">Írd ide a tipped</string>
+    <string name="pleaseNew">Kezdj Új játékot</string>
+    <string name="tippButton">Tipp</string>
+    <string name="newGameButton">Új játék!</string>
+
+    <string name="txtSmaller">A tipped kisebb</string>
+    <string name="txtEqual">Szuper! Kitaláltad!!</string>
+    <string name="txtBigger">A tipped nagyobb</string>
+    <string name="trials">Tippek:</string>
+    <string name="hof">Ranglista </string>
+</resources>
